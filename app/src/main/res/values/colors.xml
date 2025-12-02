@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- theme colors -->
+    <color name="primary_color">#00695C</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent_color">#26A69A</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#616161</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Neutral "around 1:1" colours -->
+    <color name="rate_neutral">#FFC107</color>
+    <color name="rate_bg_neutral">#FFF8E1</color>
+
+    <!-- Existing vivid tones for clarity -->
+    <color name="rate_strong">#00C853</color>
+    <color name="rate_bg_strong">#E8F5E9</color>
+    <color name="rate_moderate">#4CAF50</color>
+    <color name="rate_bg_moderate">#E0F2F1</color>
+    <color name="rate_weak">#E53935</color>
+    <color name="rate_bg_weak">#FFEBEE</color>
+    <color name="rate_very_weak">#B71C1C</color>
+    <color name="rate_bg_very_weak">#FFCDD2</color>
+
+</resources>

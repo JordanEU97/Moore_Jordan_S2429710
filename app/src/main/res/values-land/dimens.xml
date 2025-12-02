@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- avoid phone curve -->
+    <dimen name="main_padding_top">22dp</dimen>
+    <dimen name="my_padding">19dp</dimen>
+    <dimen name="my_text_size">10sp</dimen>
+</resources>
