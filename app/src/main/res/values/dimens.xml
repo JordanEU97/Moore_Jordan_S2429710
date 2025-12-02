@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- avoid camera -->
+    <dimen name="main_padding_top">45dp</dimen>
+    <dimen name="my_padding">19dp</dimen>
+    <dimen name="my_text_size">10sp</dimen>
+</resources>
